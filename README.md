@@ -75,13 +75,13 @@ Implementation of MLP for speech recognition. The assignment teaches how to deal
 ---
 
 ## Convolutional Neural Networks (CNN)
-**TBA: Berkeley Computer Vision Assignments**
+**To be done: Berkeley Computer Vision Assignments**
 
 
 ---
 ## Graph Neural Networks (GNN)
 
-**TBA: Stanford GNN Course**
+**To be done: Stanford GNN Course**
 
 ---
 
@@ -128,7 +128,7 @@ Self-directed assignment based on "Building LLMs from Scratch" book. Adapted the
 
 ## Generative Adversarial Networks (GAN)
 
-**TBA: CMU 16726 GAN Assignment**
+**To be done: CMU 16726 GAN Assignment**
 
 
 
@@ -163,13 +163,13 @@ Implementation of a DB-VAE architecture to debias Face Detection Systems. The as
 
 ## Flow Matching
 
-**TBA: MIT Flow Matching Course**
+**To be done: MIT Flow Matching Course**
 
 ---
 
 ## Diffusion Models
 
-**TBA: MIT Flow Matching Course + KAIST Diff Course**
+**To be done: MIT Flow Matching Course + KAIST Diff Course**
 
 ---
 
